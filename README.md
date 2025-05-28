@@ -26,9 +26,9 @@ The model uses **Linear Regression** from scikit-learn to learn relationships be
 ## 📁 Project Structure
 ```bash
 grade-prediction/
-├── studentgrades.csv # Dataset
-├── grade_model.py # Main ML script
-├── model.pkl # Saved model
+├── student-data.csv # Dataset
+├── student-mat.csv # Dataset
+├── import pandas as pd.py # Main ML script
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
 
