@@ -21,7 +21,6 @@ The model uses **Linear Regression** from scikit-learn to learn relationships be
 - numpy
 - scikit-learn
 - matplotlib
-- pickle (for model saving)
 
 ## 📁 Project Structure
 ```bash
